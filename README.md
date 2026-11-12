@@ -1,0 +1,2 @@
+# EvanG64.github.io
+Hi, I'm Evan. I enjoy exploring the intersection of technology, analytics, and software quality. From automation testing and CI/CD pipelines to data analytics and cybersecurity, I'm constantly learning, building, and improving my skills. This site highlights my projects, experience, and professional growth as I pursue a career in technology.
